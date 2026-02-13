@@ -4,7 +4,7 @@
   "description": "Tinder for dev",
   "main": "index.js",
   "scripts": {
-    "dev" : "nodemon src/app.js"
+    "dev": "nodemon src/app.js"
   },
   "keywords": [
     "node.js",
@@ -13,6 +13,7 @@
   "author": "Sourabh Patel",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mongoose": "^8.23.0"
   }
 }
